@@ -21,4 +21,8 @@ To run this project you need:
 
 - Python 3 installed
 
+## How to Run the Project
 
+1. Download or clone the repository 
+2. Navigate to the project folder
+3. Run the program
