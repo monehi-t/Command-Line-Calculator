@@ -39,3 +39,18 @@ Result: 8
 ## Screenshots
 
 Screenshot showing the program running on the local machine.
+Enter first number:
+<img width="1052" height="375" alt="image" src="https://github.com/user-attachments/assets/eeb21962-4022-4d5d-8632-91c356fc173d" />
+
+Enter operator
+<img width="1041" height="393" alt="image" src="https://github.com/user-attachments/assets/a4eb34c9-a075-40a3-ba47-7581d9d7090c" />
+
+Enter second number:
+<img width="1041" height="387" alt="image" src="https://github.com/user-attachments/assets/462636a9-932f-4e5a-8373-08421b545adf" />
+
+Result:
+<img width="1036" height="442" alt="image" src="https://github.com/user-attachments/assets/00bda995-ab62-4817-9cd9-d941dbfae473" />
+
+
+
+
