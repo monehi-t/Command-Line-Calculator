@@ -26,3 +26,16 @@ To run this project you need:
 1. Download or clone the repository 
 2. Navigate to the project folder
 3. Run the program
+
+## Example Output
+
+Example interaction:
+Simple Calculator
+Enter first number: 5
+Enter operator (+, -, *, /): +
+Enter second number: 3
+Result: 8
+
+## Screenshots
+
+Screenshot showing the program running on the local machine.
