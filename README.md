@@ -30,10 +30,10 @@ To run this project you need:
 ## Example Output
 
 Example interaction:
-Simple Calculator
-Enter first number: 5
-Enter operator (+, -, *, /): +
-Enter second number: 3
+Simple Calculator 
+Enter first number: 5 
+Enter operator (+, -, *, /): + 
+Enter second number: 3 
 Result: 8
 
 ## Screenshots
